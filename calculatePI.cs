@@ -1,4 +1,6 @@
-string piNumber = "3,";
+public static string PiNumberFinder(int digitNumber)
+    {
+        string piNumber = "3,";
         int dividedBy = 11080585;
         int divisor = 78256779;
         int result;
@@ -17,5 +19,4 @@ string piNumber = "3,";
         }
 
         return piNumber;
-        
-}
+    }
