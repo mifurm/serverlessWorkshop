@@ -3,6 +3,7 @@
 2) VM on Azure using image Visual Studio 2017 Community Edition on Windows Server 2016
 * [Azure Function Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 3) [JMeter](https://jmeter.apache.org/)
+4) [Postman](https://www.getpostman.com/)
 
 ## Tasks
 1) Simple Function in Portal with:
@@ -21,3 +22,6 @@
 
 6) Logic App demo with Analyze Image API
 * [Computer Vision API - v1.0](https://westeurope.dev.cognitive.microsoft.com/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
+* [Postman](https://www.getpostman.com/)
+
+7) EventGrid
