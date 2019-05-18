@@ -14,7 +14,10 @@
 3) Scale function with JMeter
 
 4) [Multiple Bindings](https://github.com/mifurm/serverlessWorkshop/blob/master/fun01_multipleOutputBindings.csx)
+* [Azure Bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings) 
 
 5) [BlobTrigger with OCR Integration](https://github.com/mifurm/serverlessWorkshop/blob/master/fun02_blobTriggerWithOCRIntegration.csx)
+* API Reference for [Computer Vision API](https://westeurope.dev.cognitive.microsoft.com/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fc)
 
-6) Logic App demo with Text Analytics
+6) Logic App demo with Analyze Image API
+* [Computer Vision API - v1.0](https://westeurope.dev.cognitive.microsoft.com/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fa)
