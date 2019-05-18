@@ -13,6 +13,7 @@
 2) Simple Function in VS Code / VS 2017
 
 3) Scale function with JMeter
+* Create another function to [calculate PI value](https://github.com/mifurm/serverlessWorkshop/blob/master/functionapp.csx)
 
 4) [Multiple Bindings](https://github.com/mifurm/serverlessWorkshop/blob/master/fun01_multipleOutputBindings.csx)
 * [Azure Bindings](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings) 
