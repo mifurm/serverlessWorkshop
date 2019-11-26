@@ -31,7 +31,8 @@ private async static Task<HttpResponseMessage> MakeRequest(byte[] bytes,ILogger 
             // Request parameters
             queryString["language"] = "unk";
             queryString["detectOrientation "] = "true";
-            var uri = "https://westeurope.api.cognitive.microsoft.com/vision/v1.0/ocr?" + queryString;
+            var uri = "https://westeurope.api.cognitive.microsoft.com/vision/v2.0/ocr?" + queryString;
+           
 
             HttpResponseMessage response;
 
